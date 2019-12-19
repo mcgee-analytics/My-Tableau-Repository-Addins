@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20193.19.0821.2225                               -->
+<mapsource inline='true' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection api-version='2' class='OpenStreetMap' indicator-server='http://a.tile.stamen.com' layer-separator=',' max-stretch='1.2' min-shrink='0.667' offline='' port='80' server='http://a.tile.stamen.com' tileset='US\normal' url-format='/toner/{Z}/{X}/{Y}.png' />
+  <languages />
+  <layers>
+    <layer display-name='toner' name='toner' show-ui='true' type='features' />
+  </layers>
+  <properties />
+  <map-styles />
+  <mapsource-defaults version='18.1'>
+    <style>
+      <style-rule element='map-layer'>
+        <format attr='enabled' id='toner' value='true' />
+      </style-rule>
+      <style-rule element='map'>
+        <format attr='washout' value='0.4' />
+      </style-rule>
+    </style>
+  </mapsource-defaults>
+  <map-attribution copyright-string='©OpenStreetMap' copyright-url='https://www.openstreetmap.org/about' short-copyright-string='' />
+</mapsource>

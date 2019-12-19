@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapsource inline="true" version="8.2">
+  <connection api-version="2" class="OpenStreetMap" indicator-server="https://services.arcgisonline.com" layer-separator="," offline="" port="443" server="https://services.arcgisonline.com" url-format="/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{Z}/{Y}/{X}" />
+  <layers>
+    <layer display-name="World Street Map" name="World Street Map" show-ui="true" type="features" />
+  </layers>
+  <map-styles>
+    <map-style display-name="World Street Map" name="World Street Map">
+      <map-layer-style name="World Street Map" request-string="World Street Map" />
+    </map-style>
+  </map-styles>
+  <properties />
+</mapsource>

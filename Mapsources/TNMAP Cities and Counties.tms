@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20193.19.0821.2225                               -->
+<mapsource inline='true' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection class='OGC-WMS' description='http://tnmap.tn.gov/arcgis/services/TABLEAU/CITIES_COUNTIES/MapServer/WMSServer?' full-url='http://tnmap.tn.gov/arcgis/services/TABLEAU/CITIES_COUNTIES/MapServer/WMSServer?' inline='true' offline='' port='80' server='tnmap.tn.gov' service='http' tileset='US\normal' url='/arcgis/services/TABLEAU/CITIES_COUNTIES/MapServer/WMSServer?' use-tiled-maps='false' />
+  <languages />
+  <properties />
+  <map-styles />
+  <mapsource-defaults version='18.1'>
+    <style>
+      <style-rule element='map-layer'>
+        <format attr='enabled' id='2' value='true' />
+      </style-rule>
+    </style>
+  </mapsource-defaults>
+</mapsource>

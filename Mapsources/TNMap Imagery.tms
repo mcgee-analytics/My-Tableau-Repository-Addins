@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mapsource inline="true" version="8.2">
+  <connection api-version="2" class="OpenStreetMap" indicator-server="https://tnmap.tn.gov" layer-separator="," offline="" port="443" server="https://tnmap.tn.gov" url-format="/arcgis/rest/services/BASEMAPS/IMAGERY_WEB_MERCATOR/MapServer/tile/{Z}/{Y}/{X}" />
+  <layers>
+    <layer display-name="Tennessee Imagery" name="Tennessee Imagery" show-ui="true" type="features" />
+  </layers>
+  <map-styles>
+    <map-style display-name="Tennessee Imagery" name="Tennessee Imagery">
+      <map-layer-style name="Tennessee Imagery" request-string="Tennessee Imagery" />
+    </map-style>
+  </map-styles>
+  <properties />
+</mapsource>

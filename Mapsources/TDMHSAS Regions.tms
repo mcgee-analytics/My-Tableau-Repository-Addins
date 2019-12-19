@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 10500.17.1226.1925                               -->
+<mapsource inline='true' source-platform='win' version='10.5' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <connection class='OGC-WMS' description='https://tnmap.tn.gov/arcgis/services/TABLEAU/TDMHSAS_REGIONS/MapServer/WMSServer?' full-url='https://tnmap.tn.gov/arcgis/services/TABLEAU/TDMHSAS_REGIONS/MapServer/WMSServer?' inline='true' offline='' port='443' server='tnmap.tn.gov' service='https' tileset='US\normal' url='/arcgis/services/TABLEAU/TDMHSAS_REGIONS/MapServer/WMSServer?' use-tiled-maps='false' />
+  <languages />
+  <properties />
+  <map-styles />
+  <mapsource-defaults version='10.5'>
+    <style>
+      <style-rule element='map-layer'>
+        <format attr='enabled' id='0' value='true' />
+      </style-rule>
+    </style>
+  </mapsource-defaults>
+</mapsource>
